@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darkeyes712
-- 👀 I’m interested in web development, blockchain, game development, automation
-- 🌱 I’m currently learning Python, JS, HTML, CSS
+- 👀 I’m interested in Web development, Game development, Automation, Software Engineering, DevSecOps
+- 🌱 I’m working with Python, Bash, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: nikolakolev712@gmail.com
 
